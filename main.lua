@@ -5,7 +5,7 @@
 -----------------------------------------------------------------------------------------
 
 -- Your code here
-
+--aqui que eu mudei
 local widget = require("widget")
 
  local campo = native.newTextField(160, 100, 200, 100)
